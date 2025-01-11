@@ -168,7 +168,7 @@
     "stats": {}
   },
   {
-    "remarks": "ServLess frag 1-1",
+    "remarks": "ServLess frag tlshello",
     "log": {
       "access": "",
       "error": "",
@@ -236,7 +236,7 @@
           "fragment": {
             "packets": "1-1",
             "length": "1-4",
-            "interval": "2-10"
+            "interval": "2-8"
           }
         },
         "streamSettings": {
